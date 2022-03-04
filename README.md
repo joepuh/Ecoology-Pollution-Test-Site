@@ -1,16 +1,13 @@
-# title(){return this.options.title||this.options.name}
+# It simply aint easy being cheesy
 
-## Supporting Scrimba
+## Supporting joepuh Dev endeavors
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+Since 2017, I have worked shitty jobs. But to pay my bills, we have stuck to it. Until now. Full send. So if you've ever wanted to "give back" to me, you can do that by buying one of my services. 
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+- [HTML & CSS](https://www.youtube.com/watch?v=u0OeZfIfBRI)
+- [JavaScript](https://www.youtube.com/watch?v=upDLs1sn7g4)
+- [React](https://www.youtube.com/watch?v=N3AkSS5hXMA)
 
-	It would also mean the world to us if you share the courses.  
+	It would also mean the world to us if you share the cheddar.  
 
 Happy Coding!
